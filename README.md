@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **harshniture/harshniture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<title><h1>HI THERE</h1></title>
+<h1>HI THERE</h1>
