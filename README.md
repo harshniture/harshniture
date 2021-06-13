@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>HI THERE !!!</h1>
+<h3>I am Aspiring Web Developer</h3>
+<h3>I am Cyber Security Student</h3>
