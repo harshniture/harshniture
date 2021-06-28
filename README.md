@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 <h1>HI THERE !!!</h1>
 <h3>I am Aspiring Web Developer</h3>
 <h3>I am Cyber Security Student</h3>
+# Hi there!:wave: 
+![HARSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha-1290&show_icons=true&theme=radical&count_private=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha-1290&theme=radical" width="335px" data-canonical-><br>
