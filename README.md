@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <h3>I am Cyber Security Student</h3>
 
 # Hi there!:wave:
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshniture&show_icons=true&theme=radical&count_private=true)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshniture&show_icons=true&theme=radical_with_no_borders&count_private=true)
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshniture&theme=radical" width="335px" data-canonical-><br>
