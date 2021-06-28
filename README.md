@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 # Hi there!:wave:
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshniture&show_icons=true&theme=radical&count_private=true)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshniture&theme=radical" width="335px" data-canonical-><br>
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshniture&theme=radical" width="335px" data-canonical-><br>
