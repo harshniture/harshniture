@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshniture&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)
 <hr>
 
-### <h1>You Can Connect me here </h1>:
+### <h1>You Can Connect me here </h1> :
 
-[<img height=40 width=40 alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:harshniture12@gmail.com)
-[<img height=40 width=40 alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/harshniture12/) 
-[<img height=40 width=40 alt="Visit my Twitter Profile" src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/HarshNiture) 
-[<img height=40 width=40 alt="Visit my Facebook Profile" src="https://image.flaticon.com/icons/png/128/145/145802.png">](https://www.facebook.com/mauli.niture.12/) 
-[<img height=40 width=40 alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">](https://www.instagram.com/harsh_niture/)
+[<img height=50 width=50 alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:harshniture12@gmail.com)
+[<img height=50 width=50 alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/harshniture12/) 
+[<img height=50 width=50 alt="Visit my Twitter Profile" src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/HarshNiture) 
+[<img height=50 width=50 alt="Visit my Facebook Profile" src="https://image.flaticon.com/icons/png/128/145/145802.png">](https://www.facebook.com/mauli.niture.12/) 
+[<img height=50 width=50 alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">](https://www.instagram.com/harsh_niture/)
