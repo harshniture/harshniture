@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshniture&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&bg_color=)
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshniture&theme=radical&hide_border=true&title_color=00FF00&icon_color=00FF00&bg_color=" width="335px" data-canonical-><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshniture&hide_border=true&background=0D111700&border=00FF00&fire=00FF00&sideNums=00FF00&currStreakLabel=ff96e6e&currStreakNum=00FF00&sideLabels=00FF00&dates=4F5D78&stroke=00FF00)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshniture&hide_border=true&background=0D111700&border=00FF00&fire=00FF00&sideNums=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=4F5D78&stroke=00FF00)](https://git.io/streak-stats)
 <hr>
