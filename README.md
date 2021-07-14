@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>HI THERE !!!</h1>
-<h3>I am Aspiring Web Developer</h3>
-<h3>I am Cyber Security Student</h3>
+
 
 # Hi there!:wave:
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshniture&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&bg_color=)
