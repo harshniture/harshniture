@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### <h1>You Can Connect Me Here </h1> 
 
 [<img height=50 width=50 alt="Mail me" src="assets/mail.jpg">](mailto:harshniture12@gmail.com)
-[<img height=50 width=50 alt="Connect on LinkedIn" src="assets/linkedin.jpg">](https://www.linkedin.com/in/harshniture12/) 
-[<img height=50 width=50 alt="Visit my Twitter Profile" src="assets/twitter.png">](https://twitter.com/HarshNiture) 
-[<img height=50 width=50 alt="Visit my Instagram Profile" src="assets/instagram.jpg">](https://www.instagram.com/harsh_niture/)
+[<img height=50 width=50 alt="Connect on LinkedIn" src="assets/Linkedin.jpg">](https://www.linkedin.com/in/harshniture12/) 
+[<img height=50 width=50 alt="Visit my Twitter Profile" src="assets/Twitter.png">](https://twitter.com/HarshNiture) 
+[<img height=50 width=50 alt="Visit my Instagram Profile" src="assets/Instagram.jpg">](https://www.instagram.com/harsh_niture/)
 
