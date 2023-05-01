@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi there!:wave:
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshniture&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=#FFA500&icon_color=#FFA500&bg_color=)
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshniture&theme=radical&hide_border=true&title_color=00FF00&icon_color=00FF00&bg_color=" width="335px" data-canonical-><br>
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshniture&theme=radical&hide_border=true&title_color=#FFFFFF&icon_color=#FFFFFF&bg_color=" width="335px" data-canonical-><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshniture&hide_border=true&background=0D111700&border=943BDD00&fire=0FAADA&sideNums=10D906&currStreakLabel=10D906&currStreakNum=10D906&sideLabels=10D906&dates=4F5D78&stroke=7F1DA2&ring=10D906)](https://git.io/streak-stats)
 <hr>
 
